@@ -1,0 +1,9 @@
+metric,value
+customer-product pairs (before filter),417719
+products before filter,4529
+products kept (>= 10 customers),3687
+customers in matrix,5473
+train customers lost (all their products filtered),1
+purchase value,log1p
+test pairs kept,44727
+evaluation customers,1913
