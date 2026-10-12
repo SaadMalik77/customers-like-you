@@ -1,0 +1,12 @@
+metric,value
+cutoff (train <= cutoff < test),2011-10-09 12:50:00
+train rows,660194
+test rows (raw),116383
+train customers,5474
+train products,4529
+test customers (raw),2420
+test customers with train history,2042
+"test customers dropped (new, cold start)",378
+"held-out (customer, product) pairs",45753
+evaluation customers (>= 1 held-out pair),1916
+avg new products per evaluation customer,23.88

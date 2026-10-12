@@ -1,0 +1,7 @@
+rule,rows_before,removed,pct_removed,rows_after
+Exact duplicate rows,1067371,34335,3.22,1033036
+Cancellations (Invoice starts with C),1033036,19104,1.85,1013932
+Missing Customer ID,1013932,234437,23.12,779495
+Quantity <= 0,779495,0,0.0,779495
+Price <= 0,779495,70,0.01,779425
+Non-product codes,779425,2848,0.37,776577
