@@ -1,7 +1,7 @@
 metric,value
 Matrix shape,"(5473, 3687)"
 Number of non-zero elements,413927
-Sparsity,0.9794871893984974
+Sparsity %,97.94871893984974
 dense_memory in MBs,161.43
 sparse_memory in MBs,4.99
 sparse_memory is N times smaller than dense_memory,32.4
