@@ -15,3 +15,4 @@
     3. Note() and apply_rule() functions in build_matrix.ipynb was suggested by LLM during debugging. I used them to generate reports
     4. In ml.ipynb, plot was drawn with the help of LLM for syntax.
     5. LLM help was taken in debugging.
+    6. Important: Due to shortage of time and doing this project solo, i used LLM for coding ML4, ML5 and ML6. 
