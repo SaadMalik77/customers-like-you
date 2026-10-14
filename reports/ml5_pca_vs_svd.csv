@@ -1,7 +1,7 @@
 Measure,PCA,Truncated SVD
 k used,50,50
-Fit time (seconds),0.105,0.123
-Peak memory during fit (MB),7.8,9.7
+Fit time (seconds),0.107,0.08
+Peak memory during fit (MB),7.7,9.7
 Size of stored factors (MB),3.69,3.66
 Variance explained (PCA) / relative rebuild error (SVD),35.0% variance explained,79.0% rebuild error
 Relative rebuild error (same scale for both),0.7887,0.7896
