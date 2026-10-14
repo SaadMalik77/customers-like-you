@@ -1,3 +1,3 @@
-method,hit_rate_at_10,hit_rate_%
-Truncated SVD (k=50),0.21484579194981704,21.5
-Best-seller baseline,0.26868792472556197,26.9
+method,hit_rate_at_10_%
+Truncated SVD (k=50),21.5
+Best-seller baseline,26.9

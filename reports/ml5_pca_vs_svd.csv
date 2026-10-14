@@ -1,0 +1,10 @@
+Measure,PCA,Truncated SVD
+k used,50,50
+Fit time (seconds),0.106,0.111
+Peak memory during fit (MB),7.7,9.7
+Size of stored factors (MB),3.69,3.66
+Variance explained (PCA) / relative rebuild error (SVD),35.0% variance explained,79.0% rebuild error
+Relative rebuild error (same scale for both),0.7887,0.7896
+Hit rate at 10 on held-out purchases (%),21.0,21.5
+Best-seller baseline hit rate at 10 (%),26.9,26.9
+What component 1 represents,"Customer size: how much more than the average customer someone buys of the core best-selling range (cake cases, jumbo bags, lunch bags, T-light holders). Almost all loadings share one sign.","Overall purchase volume: how much a customer buys, led by the same core best-sellers. All loadings share one sign; customer scores correlate 0.968 with total purchases."
