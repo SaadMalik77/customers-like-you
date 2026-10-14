@@ -1,5 +1,5 @@
 step,seconds
-fit SVD,0.104
-also-bought table,0.547
-score all customers,0.816
-total,1.467
+fit SVD,0.076
+also-bought table,0.53
+score all customers,0.743
+total,1.349
