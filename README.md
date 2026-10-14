@@ -9,6 +9,7 @@
     4. In ml.ipynb, plot was drawn with the help of LLM for syntax.
     5. LLM help was taken in debugging.
     6. Important: Due to shortage of time and doing this project solo, i used LLM for coding ML4, ML5 and ML6. However, I made sure i understand what it does and analyze its results.
+    7. I used my results from my code and analysis to formulate a memo with the help of LLM. Analysis was mine. Help was taken to formulate a formal document.
 
 ## Data
 - Source: UCI Online Retail II — https://archive.ics.uci.edu/dataset/502/online+retail+ii
